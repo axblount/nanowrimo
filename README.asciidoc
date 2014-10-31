@@ -1,0 +1,9 @@
+NaNoWriMo
+=========
+
+2014::
+https://github.com/axblount/nanowrimo/blob/master/2014/book.asciidoc[TITLE 
+PENDING]
+
+ Copyright 2014 Alex Blount
+
