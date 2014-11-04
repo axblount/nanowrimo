@@ -1,3 +1,7 @@
+Overall
+=======
+- Need to setup locations better.
+
 Plot Points
 ===========
 - He gets to work it's all burned down, everyone is dead. Out front there's 
@@ -7,7 +11,13 @@ A charred corpse hangs out the second story window. The company made fire
 alarms, they were all desensitized to fire alarms. They all went to chastise the 
 person who didn't turn off the alarm, the fire spread and the fireworks went 
 off.
-- Cedar says, ``Always look for the anamoly. Here, the anamoly is you.''
+- Cedar says, ``Always look for the anomaly. Here, the anomaly is you.''
+
+Rewrites
+========
+- grep for NOTE and TODO
+- Change how the fire started. Make it so everyone was gathered in the break 
+room or something.
 
 Plot Holes
 ==========
@@ -21,12 +31,16 @@ Vague Ideas
 ===========
 - a aliens sensitive to acetic acid. carry a squirt gun. Wear one of those
 squirting flowers pretend to sneeze on people
+- An ammonia based life form uses Cosgrove's smell salt e-cig to survive on 
+earth
 
 Names
 =====
+Unused:
 - Dingmar Viberkorn
+Used:
+- Dr. Donny Osborn [Ch. 2]
 
-General Todo List
-=================
-- grep for NOTE and TODO
+Nice To Have
+============
 - Joe and Barbie suicide scene could be longer.
