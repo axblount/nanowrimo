@@ -15,6 +15,8 @@ off.
 
 Rewrites
 ========
+- Need to add a setting. Tucson seems like the best choice. Right now it's too 
+nebulous. Even if it's ficticious I should define it.
 - grep for NOTE and TODO
 - Change how the fire started. Make it so everyone was gathered in the break 
 room or something.
@@ -22,6 +24,7 @@ room or something.
 Plot Holes
 ==========
 - Fire investigation happens too fast.
+- Forgot to add the teacher to the bus scene.
 
 Motifs
 ======
@@ -39,7 +42,7 @@ Names
 Unused:
 - Dingmar Viberkorn
 Used:
-- Dr. Donny Osborn [Ch. 2]
+- Dr. Denny Osborn [Ch. 2]
 
 Nice To Have
 ============
