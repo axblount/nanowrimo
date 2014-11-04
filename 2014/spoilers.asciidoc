@@ -11,12 +11,11 @@ A charred corpse hangs out the second story window. The company made fire
 alarms, they were all desensitized to fire alarms. They all went to chastise the 
 person who didn't turn off the alarm, the fire spread and the fireworks went 
 off.
-- Cedar says, ``Always look for the anomaly. Here, the anomaly is you.''
 
 Rewrites
 ========
 - Need to add a setting. Tucson seems like the best choice. Right now it's too 
-nebulous. Even if it's ficticious I should define it.
+nebulous. Even if it's fictitious I should define it.
 - grep for NOTE and TODO
 - Change how the fire started. Make it so everyone was gathered in the break 
 room or something.
@@ -24,7 +23,8 @@ room or something.
 Plot Holes
 ==========
 - Fire investigation happens too fast.
-- Forgot to add the teacher to the bus scene.
+- Forgot to add the teacher to the bus scene. The teacher should have a disk as 
+well.
 
 Motifs
 ======
@@ -42,7 +42,7 @@ Names
 Unused:
 - Dingmar Viberkorn
 Used:
-- Dr. Denny Osborn [Ch. 2]
+- Dr. Denny Osborn: Psychogeologist
 
 Nice To Have
 ============
